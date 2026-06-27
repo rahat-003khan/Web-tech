@@ -1,5 +1,4 @@
 # Web-tech
-Hellow world
-new 
+Hellow world 
 
-Chenges from local
+Wellcome to the github
